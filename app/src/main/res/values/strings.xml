@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roll the dice</string>
+    <string name="roll">Roll!!</string>
+    <string name="sum">Sum =</string>
+    <string name="dice_side_image">dice side image</string>
+    <string name="dice_side_image2">dice side image</string>
+</resources>
